@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Basurero Jilotzingo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Basurero de residuos hospitalarios en Jilotzingo y Atizapán, edo. de México", "region": "Jilotzingo y Atizapán, edo. de México", "descripcio": "Basurero de residuos biológico-infecciosos en San Luis Ayucan, Jilotzingo México\/ contaminación de la presa Madin en Atizapán de Zaragoza", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/131\/" }, "geometry": { "type": "Point", "coordinates": [ -99.336395391039673, 19.506205297798925 ] } }
+]
+}
