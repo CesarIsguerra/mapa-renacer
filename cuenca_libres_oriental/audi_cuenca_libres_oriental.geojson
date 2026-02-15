@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Audi Cuenca Oriental",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Audi", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "conflicto": "Audi", "region": "Cuenca Libres Oriental", "descripcio": "Afectaciún múltiple por industria porcina, automotriz, generando diversos tipos de enfermedades", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/84\/" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -97.760991998927821, 19.20612129656439, 0.0 ], [ -97.766044429194238, 19.223837240367899, 0.0 ], [ -97.748149016115491, 19.228371799229681, 0.0 ], [ -97.741078956220079, 19.203646601543891, 0.0 ], [ -97.758900047826032, 19.205061496644689, 0.0 ], [ -97.760991998927821, 19.20612129656439, 0.0 ] ] ] ] } }
+]
+}
