@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Los Azufres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Contaminación de agua subterránea por Geotérmica de CFE Los Azufres", "region": "Los Azufres, Michoacán", "descripcio": "Contaminación por metales pesados generados por geotermoeléctrica", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/73\/" }, "geometry": { "type": "Point", "coordinates": [ -100.662643520080167, 19.790774187563247 ] } }
+]
+}
