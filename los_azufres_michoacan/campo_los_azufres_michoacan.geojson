@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campo Los Azufres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Geotérmica Los Azufres CFE", "region": "Los Azufres, Michoacán", "descripcio": "Contaminación por metales pesados generados por geotermoeléctrica", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/73\/" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -100.809552055431297, 19.881968485703833 ], [ -100.573244831116355, 19.877710555932818 ], [ -100.573062781929849, 19.716683944037797 ], [ -100.810971056118063, 19.720069358495113 ], [ -100.809552055431297, 19.881968485704739 ], [ -100.809552055431297, 19.881968485703833 ] ] ] ] } }
+]
+}
