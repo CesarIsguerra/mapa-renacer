@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Paciente cero Cuenca Oriental",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Paciente cero de la influenza porcina", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "conflicto": "Paciente cero de la influenza porcina", "region": "Cuenca Libres Oriental", "descripcio": "Afectación múltiples por industria porcina, automotriz, generando diversos tipos de enfermedades", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/84\/" }, "geometry": { "type": "Point", "coordinates": [ -97.281827888164983, 19.39676204021951, 0.0 ] } }
-]
-}
