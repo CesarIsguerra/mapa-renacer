@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Petroquimica y termoelectrica Ohuira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Terminal GNL Vista Pacífico", "region": "Ohuira", "descripcio": "Megaproyectos de gas y planta petroquímica en bahía de Ohuira, Sinaloa", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/102\/" }, "geometry": { "type": "Point", "coordinates": [ -109.075177874343538, 25.557637001213976 ] } },
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Terminal de Almacenamiento PEMEX", "region": "Ohuira", "descripcio": "Megaproyectos de gas y planta petroquímica en bahía de Ohuira, Sinaloa", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/102\/" }, "geometry": { "type": "Point", "coordinates": [ -109.047153014495748, 25.614941155325422 ] } },
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Central Termoeléctrica CFE", "region": "Ohuira", "descripcio": "Megaproyectos de gas y planta petroquímica en bahía de Ohuira, Sinaloa", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/102\/" }, "geometry": { "type": "Point", "coordinates": [ -109.05133202764948, 25.608180625238912 ] } }
+]
+}
