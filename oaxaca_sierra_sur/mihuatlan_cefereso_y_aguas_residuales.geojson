@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Cefereso y aguas residuales Mihuatlan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "CEFERESO No. 13", "region": "Valles Centrales, Oaxaca", "descripcio": "Problemática de contaminación hídrica", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/" }, "geometry": { "type": "Point", "coordinates": [ -96.585356419815994, 16.379863785906682 ] } },
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Planta de tratamiento de aguas residuales", "region": "Valles Centrales, Oaxaca", "descripcio": "Contaminacion de agua", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/" }, "geometry": { "type": "Point", "coordinates": [ -96.607013936496983, 16.337367206965205 ] } }
+]
+}
