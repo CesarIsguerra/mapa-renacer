@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tiradero Cuetzalan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Tiraderos a cielo abierto intoxican a pueblos Masewal y Tutunaku en Puebla", "region": "Sierra Norte de Puebla", "descripcio": "Tiradero a cuelo abierto", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/86\/" }, "geometry": { "type": "Point", "coordinates": [ -97.526915590364979, 20.006618696778823 ] } }
+]
+}
