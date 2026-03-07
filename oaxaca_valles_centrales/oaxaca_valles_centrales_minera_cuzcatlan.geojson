@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Minera Cuzcatlan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Mina Cuzcatlán", "region": "Valles Centrales, Oaxaca", "descripcio": "Mina", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/" }, "geometry": { "type": "Point", "coordinates": [ -96.701445420281814, 16.694816547709763 ] } },
+{ "type": "Feature", "properties": { "id": null, "conflicto": "Presa de jales de Mina Cuzcatlán", "region": "Valles Centrales, Oaxaca", "descripcio": "Presa de jales", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/" }, "geometry": { "type": "Point", "coordinates": [ -96.708557758525856, 16.683295123893679 ] } }
+]
+}
