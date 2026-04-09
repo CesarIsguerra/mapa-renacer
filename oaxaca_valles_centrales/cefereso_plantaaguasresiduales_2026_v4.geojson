@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Cefereso_PlantaAguasResiduales_2026_V4",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": null, "conflicto": "Minera Cuzcatlán en San José del Progreso, Oaxaca", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/", "nom_marca": "CEFERESO No. 13", "sitio": "CEFERESO No. 13", "LOCALIDAD": "Miahuatlán de Porfirio Díaz", "MUNICIPIO": "Miahuatlán de Porfirio Díaz", "ESTADO": "Oaxaca", "descrip": "En el Centro Federal de Readaptación Social #13 (Penal Federal), que está en la agencia municipal de Mengolí de Morelos perteneciente al municipio de Miahuatlán de Porfirio Díaz, Oaxaca, la empresa que tiene a cargo la concesión del agua es la Desa" }, "geometry": { "type": "Point", "coordinates": [ -96.585356419815994, 16.379863785906682 ] } },
-{ "type": "Feature", "properties": { "id": null, "conflicto": "Minera Cuzcatlán en San José del Progreso, Oaxaca", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/100\/", "nom_marca": "Planta de tratamiento de aguas residuales", "sitio": "Planta de tratamiento de aguas residuales", "LOCALIDAD": "Miahuatlán de Porfirio Díaz", "MUNICIPIO": "Miahuatlán de Porfirio Díaz", "ESTADO": "Oaxaca", "descrip": "En el Centro Federal de Readaptación Social #13 (Penal Federal), que está en la agencia municipal de Mengolí de Morelos perteneciente al municipio de Miahuatlán de Porfirio Díaz, Oaxaca, la empresa que tiene a cargo la concesión del agua es la Desa" }, "geometry": { "type": "Point", "coordinates": [ -96.607013936496983, 16.337367206965205 ] } }
-]
-}
