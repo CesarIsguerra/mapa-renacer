@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tiradero_asbestos_2026_V4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Tiradero de Asbestos (hasta 1992)", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "nom_marca": "Tiradero de Asbestos (hasta 1992)", "sitio": "Tiradero de Asbestos (hasta 1992)", "LOCALIDAD": "San Pedro Barrientos", "MUNICIPIO": "Tlalnepantla", "Estado": "Estado de México", "conflicto": "Corredor urbano-industrial entre Tlalnepantla, Tultitlán, Cuautitlán y Tepotzotlán", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/300\/", "descrip": "El manto de contaminación atmosférica tradicional de la megaciudad de México cobija la megaindustrialización y megaurbanización salvajes de esta región, con concentración de empresas altamente contaminantes de los sectores químico, metalúrgico," }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -99.199398130625482, 19.5771877847423, 0.0 ], [ -99.198142498688298, 19.57742440188035, 0.0 ], [ -99.19814248984747, 19.576477944276299, 0.0 ], [ -99.198100623425418, 19.574979402204491, 0.0 ], [ -99.197640227863985, 19.573165399510909, 0.0 ], [ -99.199146933530116, 19.573047090340669, 0.0 ], [ -99.19939809206744, 19.575294879276189, 0.0 ], [ -99.199398130625482, 19.5771877847423, 0.0 ] ] ] ] } }
+]
+}
