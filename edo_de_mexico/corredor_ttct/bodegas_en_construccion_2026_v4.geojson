@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bodegas_en_construccion_2026_V4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bodegas en construcción", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "nom_marca": "Bodegas en construcción", "sitio": "Bodegas en construcción", "LOCALIDAD": "San Pedro Barrientos", "MUNICIPIO": "Tlalnepantla", "ESTADO": "Estado de México", "conflicto": "Corredor urbano-industrial entre Tlalnepantla, Tultitlán, Cuautitlán y Tepotzotlán", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/300\/", "descrip": "El manto de contaminación atmosférica tradicional de la megaciudad de México cobija la megaindustrialización y megaurbanización salvajes de esta región, con concentración de empresas altamente contaminantes de los sectores químico, metalúrgico," }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -99.196681665070486, 19.582066968373919, 0.0 ], [ -99.195047606351267, 19.582466587886088, 0.0 ], [ -99.195191044165256, 19.581976459408089, 0.0 ], [ -99.195464481134522, 19.581525656492619, 0.0 ], [ -99.196004677999085, 19.58072143660241, 0.0 ], [ -99.196650569614434, 19.579908804156361, 0.0 ], [ -99.197058773525669, 19.58003185592996, 0.0 ], [ -99.19678776444978, 19.58098848654225, 0.0 ], [ -99.196782940331275, 19.581435843297601, 0.0 ], [ -99.196741543020735, 19.58177775152533, 0.0 ], [ -99.196681665070486, 19.582066968373919, 0.0 ] ] ] ] } }
+]
+}

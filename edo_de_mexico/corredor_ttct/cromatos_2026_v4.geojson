@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cromatos_2026_V4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Antigua planta de Cromatos de México", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "nom_marca": "Ex-planta Cromatos de México", "sitio": "Ex-planta Cromatos de México", "LOCALIDAD": "Tultitlán", "MUNICIPIO": "Tultitlán", "ESTADO": "Estado de México", "descrip": "El manto de contaminación atmosférica tradicional de la megaciudad de México cobija la megaindustrialización y megaurbanización salvajes de esta región, con concentración de empresas altamente contaminantes de los sectores químico, metalúrgico,", "conflicto": "Corredor urbano-industrial entre Tlalnepantla, Tultitlán, Cuautitlán y Tepotzotlán", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/300\/" }, "geometry": { "type": "Point", "coordinates": [ -99.182889117548513, 19.618475729777739, 0.0 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fabrica_Cemex_2026_V4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Fábrica Cemex", "descriptio": null, "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "nom_marca": "Fábrica Cemex", "sitio": "Fábrica Cemex", "LOCALIDAD": "San Pedro Barrientos", "MUNICIPIO": "Tlalnepantla", "ESTADO": "Estado de México", "conflicto": "Corredor urbano-industrial entre Tlalnepantla, Tultitlán, Cuautitlán y Tepotzotlán", "Saber mas": "https:\/\/organizacion.renacerambiental.org\/es\/node\/300\/", "descrip": "El manto de contaminación atmosférica tradicional de la megaciudad de México cobija la megaindustrialización y megaurbanización salvajes de esta región, con concentración de empresas altamente contaminantes de los sectores químico, metalúrgico," }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -99.203332599670006, 19.578922958347821, 0.0 ], [ -99.20270478674891, 19.579396207605232, 0.0 ], [ -99.201490957325177, 19.579277902993748, 0.0 ], [ -99.199900441237119, 19.57919903548569, 0.0 ], [ -99.19835178565296, 19.57860748785831, 0.0 ], [ -99.197975084241335, 19.577858198195131, 0.0 ], [ -99.198309903154382, 19.576162459941941, 0.0 ], [ -99.198058767004611, 19.57458505193939, 0.0 ], [ -99.202578947088739, 19.57403291801425, 0.0 ], [ -99.203332599670006, 19.578922958347821, 0.0 ] ] ] ] } }
+]
+}
