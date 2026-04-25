@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CADER_Temascalapa_edomex_v4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "conflicto": "Exposición a contaminación radioactiva por el Centro de Almacenamiento de Desechos Radiactivos (CADER), Temascalapa, edo. de México", "nom_marca": "Centro de Almacenamiento de Desechos Radiactivos (CADER)", "Saber mas": "https://organizacion.renacerambiental.org/es/node/83", "LOCALIDAD": "Santa María Maquixco", "MUNICIPIO": "Temascalapa", "ESTADO": "Estado de México", "sitio": "", "Descrip": "Municipio del Estado de México afectado por basurero nuclear donde se almacenan 96 toneladas de varilla contaminada con cobalto-60 (Co-60), además de tres almacenes que contienen desechos radiactivos en bidones de acero de 200 litros, desde hace más de 50 años, provocando enfermedades crónico-degenerativas como el cáncer, insuficiencia real y malformaciones congénitas, entre otras." }, "geometry": { "type": "Point", "coordinates": [ -98.836608029144898, 19.793116475053207 ] } }
+]
+}
